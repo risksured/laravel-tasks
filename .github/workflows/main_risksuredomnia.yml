@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'risksuredOmnia'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_15DDB0D371464E43B468702D3CF3E964 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5C0CB8AFDC3E4A31B9F92DD10C0838D2 }}
           package: .
